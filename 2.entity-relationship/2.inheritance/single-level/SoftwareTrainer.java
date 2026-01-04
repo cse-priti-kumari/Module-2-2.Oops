@@ -1,0 +1,3 @@
+class SoftwareTrainer extends Employee {
+	
+}
